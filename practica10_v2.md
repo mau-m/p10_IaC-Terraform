@@ -965,3 +965,4 @@ La práctica integra Terraform, GitHub Actions, CodeDeploy y CloudWatch en un fl
 6. El destroy elimina la infraestructura principal y conserva el bootstrap.
 
 El resultado es un despliegue reproducible, verificable y con rollback automático.
+
